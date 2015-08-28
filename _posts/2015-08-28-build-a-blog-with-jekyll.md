@@ -46,5 +46,7 @@ In several seconds you will see a message on the console like this:
 
 Then open your favorite browser and go to `http://localhost:4000` and you will see your first blog up and running!
 
+![Jekyll Started Up]({{site.url}}/assets/images/jekyll-startup.jpg)
+
 
 TO BE CONTINUED...
