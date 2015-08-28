@@ -77,3 +77,5 @@ Then open your favorite browser and go to `http://localhost:4000` and you will s
 
 
 In next blog, I will introduce how to host your blog website on GitHub Pages.
+
+在下片文章中，我会介绍如何将博客托管在GitHub Pages上面
