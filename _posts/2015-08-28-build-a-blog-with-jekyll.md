@@ -65,6 +65,7 @@ After you finish your fist post file, `cd` to the root folder of your blog proje
 In several seconds you will see a message on the console like this:
 
 几秒钟之后，你会看到类似下面的信息
+
     Server address: http://127.0.0.1:4000/
     Server running... press ctrl-c to stop.
 
