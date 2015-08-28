@@ -21,13 +21,13 @@ Jekyll is distributed as a Ruby Gem. Hence obviously you can install it by simpl
 Under any directory, execute `jekyll new myblog` will generate a folder named `myblog`, that contains all essential files for your blog website.
 
 `cd` into the `myblog` folder, you will see the following layout:
-````
+<pre>
 `--myblog
   `--_config.yml
   `--_includes/
   `--_layouts/
   `--_posts/
-````
+</pre>
 I would not introduce what each folder contains except the `_posts` folder, you can find detailed explanation at [here](http://jekyllrb.com/docs/structure/).
 
 The `_posts` folder contains plan text files, each text files is a post in your blog. It's very easy to start writing a post  by creating a text file in this folder. But be caution, the name of the text file must be in the following format:
