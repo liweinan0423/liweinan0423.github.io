@@ -7,6 +7,7 @@ date: '2015-08-28 16:24'
 # Building a Blog with Jekyll
 
 This is acutally my first technology blog, born faster thant I expected :)
+
 这就是我的第一篇技术博客了，诞生的比我预计的要早一些。 :)
 
 I would like to write down some instructions on how to setup a personal blog system with [Jekyll](http://jekyllrb.com/), which is a static website generating tool written with Ruby.
