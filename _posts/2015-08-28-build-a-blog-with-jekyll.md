@@ -31,9 +31,20 @@ Under any directory, execute `jekyll new myblog` will generate a folder named `m
 I would not introduce what each folder contains except the `_posts` folder, you can find detailed explanation at [here](http://jekyllrb.com/docs/structure/).
 
 The `_posts` folder contains plan text files, each text files is a post in your blog. It's very easy to start writing a post  by creating a text file in this folder. But be caution, the name of the text file must be in the following format:
-    
-    `YYYY-MM-DD-title.FORMAT`
+
+    YYYY-MM-DD-title.FORMAT
 
 `YYYY` is a 4 digits number represents the `Year`; `MM` and `DD` is 2 digits number represents `Month` and `Day` accordingly; `TITLE` is the title is your post; `FORMAT` is the format in which you would like to write your post. Jekyll supports `markdown` and `texttile` out of the box, and I prefer the `markdown` format.
+
+After you finish your fist post file, `cd` to the root folder of your blog project and type
+
+    jekyll serve
+
+In several seconds you will see a message on the console like this:
+    Server address: http://127.0.0.1:4000/
+    Server running... press ctrl-c to stop.
+
+Then open your favorite browser and go to `http://localhost:4000` and you will see your first blog up and running!
+
 
 TO BE CONTINUED...
