@@ -76,4 +76,4 @@ Then open your favorite browser and go to `http://localhost:4000` and you will s
 ![Jekyll Started Up](//{{site.url}}/assets/images/jekyll-startup.jpg)
 
 
-TO BE CONTINUED...
+In next blog, I will introduce how to host your blog website on GitHub Pages.
