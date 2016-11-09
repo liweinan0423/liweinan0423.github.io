@@ -13,11 +13,11 @@ I would like to write down some instructions on how to setup a personal blog sys
 Here I am just recording my own ideas on using `Jekyll`, you may find the comprehensive Jekyll guide on its [office website](http://jekyllrb.com/).
 
 
-# How to Install Jekyll 如何安装Jekyll
+# How to Install Jekyll
 
 Jekyll is distributed as a Ruby Gem, So the installation becomes very easy that you can install it just by simply typing `gem install jekyll`.
 
-# Creating a Blog Site Project 创建一个博客工程
+# Creating a Blog Site Project
 
 Under any directory, execute `jekyll new myblog` will generate a folder named `myblog`, that contains all essential files for your blog website.
 
@@ -38,7 +38,7 @@ The `_posts` folder contains plan text files, each text files is a post in your 
 
 `YYYY` is a 4 digits number represents the `Year`; `MM` and `DD` is 2 digits number represents `Month` and `Day` accordingly; `TITLE` is the title is your post; `FORMAT` is the format in which you would like to write your post. Jekyll supports `markdown` and `texttile` as well as HTML out of the box, and I prefer the `markdown` format.
 
-# Get Your Blog Website Up and Running 启动博客网站
+# Get Your Blog Website Up and Running
 
 After you finish your fist post file, `cd` to the root folder of your blog project and type
 
